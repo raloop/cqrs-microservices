@@ -5,8 +5,12 @@
 ### Implementing CQRS in our application can maximize its performance, scalability, and security
 
 👨‍💻 Technologies used:
-Spring - Java Spring
-Spring Data JPA - data access layer
-MySQL
-Kafka - Spring for Apache Kafka
-Docker - Docker
+- Spring - Java Spring
+* Spring Data JPA - data access layer
++ MySQL
+- Kafka - Spring for Apache Kafka
+* Docker
+
+
+
+
