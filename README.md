@@ -9,11 +9,11 @@
 ***Product-command-service acts as a Publisher and product-query-service acts as a Subscriber and their communication it's done through Kafka events (create, update, read events)***
 
 👨‍💻 Technologies used:
-- Spring - Java Spring
+- Spring Boot - Java Spring
 * Spring Data JPA - data access layer
-+ MySQL
++ MySQL - DB connector
 - Kafka - Spring for Apache Kafka
-* Docker
+* Docker - Running Kafka containers 
 
 
 
